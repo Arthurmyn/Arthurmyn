@@ -1,4 +1,4 @@
-# Hi, I'm Artur 👋  
+# Hi, I'm Arthur 👋  
 ### Web Developer | Student at AITU
 
 💻 I enjoy building modern web applications and learning new technologies.  
