@@ -35,8 +35,6 @@
 
 ### 🩻 Featured Project
 
-<a href="https://coloai.website"></a>
-
 **Colo.ai** - real-time AI detection of colorectal polyps during endoscopy, built to help gastroenterologists catch pre-cancerous lesions earlier.
 
 <br clear="left"/>
@@ -51,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurmyn&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Arthurmyn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
