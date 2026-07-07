@@ -35,9 +35,7 @@
 
 ### 🩻 Featured Project
 
-<a href="https://coloai.website">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthurmyn&repo=colo-ai&theme=tokyonight" />
-</a>
+<a href="https://coloai.website"></a>
 
 **Colo.ai** - real-time AI detection of colorectal polyps during endoscopy, built to help gastroenterologists catch pre-cancerous lesions earlier.
 
