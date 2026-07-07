@@ -13,7 +13,6 @@
 - 🏆 **Red Bull Basement World Finalist 2026** · **NASA Space Apps Challenge World Finalist 2024**
 - 🎓 Software Engineering student at **Astana IT University**, Astana, Kazakhstan
 - 🧠 Focused on Computer Vision & applied ML for real-world healthcare problems
-- 🎥 Run a YouTube channel about finance & startups for the CIS audience
 - 🌱 Currently exploring: production ML pipelines, React/TypeScript, product design
 
 ---
